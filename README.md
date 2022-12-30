@@ -2,7 +2,7 @@
 Contrastive Spatio-Temporal Representations for Reinforcement Learning
 
 
-##Main differences between CST-RL and CURL
+## Main differences between CST-RL and CURL
 ...
 
 ## Reference
